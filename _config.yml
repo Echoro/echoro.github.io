@@ -119,12 +119,12 @@ comments:
 
   giscus:
     repo: "Echoro/echoro.github.io"
-    repo_id: "R_kgDOMR_0Gw"
+    repo_id: "R_kgDOMSSL8g"
     category: "Q&A"
-    category_id: "DIC_kwDOMR_0G84CglnJ"
+    category_id: "DIC_kwDOMSSL8s4CglrC"
     mapping: "pathname"
     strict: "0"
-    input_position: "bottom"
+    input_position: "top"
     lang: "zh-CN"
     reactions_enabled: "1"
 
