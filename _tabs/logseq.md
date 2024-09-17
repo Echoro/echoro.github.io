@@ -1,4 +1,5 @@
  ---
+title:logseqs
  icon: fa-solid fa-book
  order: 4
  ---
