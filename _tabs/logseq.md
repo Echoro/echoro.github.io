@@ -1,5 +1,6 @@
  ---
-title:logseqs
+ layout:logseqs
+ title:logseqs
  icon: fa-solid fa-book
  order: 4
  ---
