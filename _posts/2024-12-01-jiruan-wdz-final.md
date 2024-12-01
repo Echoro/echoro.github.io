@@ -1568,7 +1568,7 @@ void enQueue(int key)
 
 在进队和出队时**把队首指针Head或队尾指针Tail加1的操作，改为(Head+1)%M或者 (Tail+1)%M**。 
 
-![image-20240621173125707](.//img/wdz_jr_final/image-20240621173125707.png)
+![image-20240621173125707](/img/wdz_jr_final/image-20240621173125707.png)
 
 ##### 环形队列的进队函数enCirQueue和出队函数deCirQueue
 
